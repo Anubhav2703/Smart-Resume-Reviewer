@@ -36,3 +36,16 @@ The app can be deployed easily on **Streamlit Community Cloud**.
    ```bash
    git clone https://github.com/your-username/smart-resume-reviewer.git
    cd smart-resume-reviewer
+2.Install dependencies:
+pip install -r requirements.txt
+
+3.Run the app locally:
+streamlit run app.py
+
+---
+
+💡 Future Improvements
+
+Support for multiple resume formats (Word, Google Docs)
+Resume scoring based on target JD
+Interactive charts for skill gaps and keyword analysis
