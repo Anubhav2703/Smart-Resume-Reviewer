@@ -46,6 +46,6 @@ streamlit run app.py
 
 💡 Future Improvements
 
-Support for multiple resume formats (Word, Google Docs)
-Resume scoring based on target JD
-Interactive charts for skill gaps and keyword analysis
+>Support for multiple resume formats (Word, Google Docs)
+>Resume scoring based on target JD
+>Interactive charts for skill gaps and keyword analysis
